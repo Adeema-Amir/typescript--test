@@ -1,0 +1,25 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/html-minifier-terser": "^7.0.0",
+    "@types/json-schema": "^7.0.12",
+    "@types/q": "^1.5.5",
+    "@types/source-list-map": "^0.1.2",
+    "@types/tapable": "^2.2.3",
+    "@types/uglify-js": "^3.17.1",
+    "@types/webpack": "^5.28.1",
+    "@types/webpack-sources": "^3.2.0",
+    "@types/yargs": "^17.0.24",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
